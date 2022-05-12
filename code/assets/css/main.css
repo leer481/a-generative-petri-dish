@@ -43,3 +43,11 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+iframe {
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 5%;
+	width: 400px;
+	height: 400px;
+}
